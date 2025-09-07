@@ -9,7 +9,7 @@
 
 ## 📖 About
 
-**YanoDeobfuscator-Updated** is an enhanced version of the original **YanoDeobfuscator**, created and improved by **Franzzen6590**.  
+**YanoDeobfuscator-Updated** is an enhanced version of the original [**YanoDeobfuscator**](https://github.com/n017/YanoDeobfuscator), created and improved by **Franzzen6590**.  
 This project focuses on refining the deobfuscation process for assemblies protected with **YanoObfuscator**, making reverse engineering and research more efficient.  
 
 ---
