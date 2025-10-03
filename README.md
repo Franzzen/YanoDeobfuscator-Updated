@@ -3,7 +3,6 @@
 <div align="center">
   <!-- Project image or logo -->
   <img width="690" height="350" alt="dawijudwnaijdnajda" src="https://github.com/user-attachments/assets/5b4e8c27-0181-40d9-b497-d2759c206dae" />
- alt="YanoDeobfuscator-Updated" width="600"/>
 </div>
 
 ---
